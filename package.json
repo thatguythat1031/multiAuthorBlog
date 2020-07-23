@@ -5,7 +5,7 @@
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+    "description": "Multi-author blog uses the bootstrap theme clean-blog.",
     "keywords": [
         "css",
         "sass",
