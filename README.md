@@ -12,4 +12,13 @@ After installation, run `npm install` and then run `npm start` which will open u
 
 ### For the authors- how to add a new article
 
-
+1. Create a new .html file in the articles folder in the project, under the correct category (ex. `/articles/bookReviews/<yourArtile>.html`)
+2. Copy all of the HTML from one of the previously-existing .html files in the folder into your file to use as a template.
+3. Add a link to your new .html file at the top of the `directory.html` file for your directory (ex. `/articles/bookReviews/directory.html`)
+4. Add a link to your new .html file at the top of the `articles/masterDir.html` file.
+5. Change the main content section of the `index.html` file so that your new file is linked with its description as the top article, move the previous first/top article down to the second, and so on. The previous last article should no longer be on the `index.html` page at all after this edit.
+4. Add any images you want to use in your article page to the `/img` folder.
+5. Edit the Page Header HTML: Choose an image from the `/img` folder to use as your header image.
+6. Edit the Page Header HTML with your background image, name (author), post-heading (title), subheading, and meta (date posted).
+7. Paste your article into the post content section of your .html file, with paragraph, header, and image tags where appropriate. If you need help, reference the `/articles/samplePost.html` file.
+8. Once your file is finished, (continue with directions to make PR, deploy new version of website).
