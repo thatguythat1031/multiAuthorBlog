@@ -3,7 +3,8 @@
     "name": "startbootstrap-clean-blog",
     "version": "5.0.9",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "startLocal": "node_modules/.bin/gulp watch",
+        "start": "http-server"
     },
     "description": "Multi-author blog uses the bootstrap theme clean-blog.",
     "keywords": [
@@ -31,6 +32,7 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.13.0",
         "bootstrap": "4.5.0",
+        "http-server": "^0.12.3",
         "jquery": "3.5.1"
     },
     "devDependencies": {
