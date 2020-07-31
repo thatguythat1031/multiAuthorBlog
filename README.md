@@ -1,6 +1,6 @@
 # Multi-Author Blog
 
-A for fun blog focusing on Philosophy and politics. The repo is a fork of the [Clean Blog](https://startbootstrap.com/themes/clean-blog/) free bootstrap theme. All credit for the original code goes to the author of the original template- more info can be found at the link above. All writing and articles are our own. The site can be visited here: [Lunchroom Prophecies](https://lunchroomprophecies.com). Site is hosted on Heroku.
+A for fun blog focusing on Philosophy and politics. The repo is a fork of the [Clean Blog](https://startbootstrap.com/themes/clean-blog/) free bootstrap theme. All credit for the original code goes to the author of the original template- more info can be found at the link above. All writing and articles are our own. The site can be visited by opening a new browser tab and searching: `https://www.lunchroomprophecies.com`. I cannot currently link to the site on github as we do not yet have an SSL certificate set up. Site is hosted on Heroku.
 
 ## Current Authors
 
@@ -28,4 +28,4 @@ After installation, run `npm install` and then run `npm start` which will open u
 8. Once your file is finished, and the necessary edits have been made to all other files, run `npm run startLocal`. This will start the website locally on your computer.
 9. Verify that your new page looks good, that links everywhere work, and that you haven't broken anything.
 10. Push your changes to your github branch and make a new PR to master.
-11. Once your PR is approved, the new version of the site will be automatically deployed to Heroku, and can be viewed at: [Lunchroom Prophecies](https://lunchroomprophecies.com)
+11. Once your PR is approved, the new version of the site will be automatically deployed to Heroku, and can be viewed by opening a new browser tab and searching for `https://www.lunchroomprophecies.com`.
