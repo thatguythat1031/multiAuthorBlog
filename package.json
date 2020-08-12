@@ -33,10 +33,11 @@
         "@fortawesome/fontawesome-free": "5.13.0",
         "bootstrap": "4.5.0",
         "http-server": "^0.12.3",
-        "jquery": "3.5.1"
+        "jquery": "3.5.1",
+        "node_module": "0.0.0"
     },
     "devDependencies": {
-        "browser-sync": "2.26.7",
+        "browser-sync": "^2.26.12",
         "del": "5.1.0",
         "gulp": "4.0.2",
         "gulp-autoprefixer": "7.0.1",
