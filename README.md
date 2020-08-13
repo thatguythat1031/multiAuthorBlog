@@ -5,7 +5,7 @@ A for fun blog focusing on Philosophy and politics. The repo is a fork of the [C
 ## Current Authors
 
 1. Seth Peters (myself)
-2. 
+2. Luke
 
 ## Local setup
 
