@@ -16,7 +16,7 @@ After installation, run `npm install` and then run `npm startLocal` which will o
 ### For the authors- how to add a new article
 
 1. Branch off of the master branch and name your branch something like "feature/{authorName}/addArticle{articleName}"
-1. Create a new .html file in the articles folder in the project, under the correct category (ex. `/articles/bookReviews/<yourArtile>.html`)
+1. Create a new .html file in the articles folder in the project, under the correct category (ex. `/articles/bookReviews/<yourArticle>.html`)
 2. Copy all of the HTML from one of the previously-existing .html files in the folder into your file to use as a template.
 3. Add a link to your new .html file at the top of the `directory.html` file for your directory (ex. `/articles/bookReviews/directory.html`)
 4. Add a link to your new .html file at the top of the `articles/masterDir.html` file.
