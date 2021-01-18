@@ -1,5 +1,7 @@
 # Multi-Author Blog
 
+*Note*: This blog has been retired and moved to a wordpress blog. It can still be accessed via the link below, but is no longer hosted on heroku and is instead a wordpress blog. I hope to return to this project at a later date to incorporate custom code and run off of that.
+
 A for fun blog focusing on Philosophy and politics. The repo is a fork of the [Clean Blog](https://startbootstrap.com/themes/clean-blog/) free bootstrap theme. All credit for the original code goes to the author of the original template- more info can be found at the link above. All writing and articles are our own. The site can be visited by opening a new browser tab and searching: `https://www.lunchroomprophecies.com`. I cannot currently link to the site on github as we do not yet have an SSL certificate set up. Site is hosted on Heroku.
 
 ## Current Authors
